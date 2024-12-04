@@ -6,5 +6,5 @@ Hi there I'm Melisa 💁‍♀👩‍💻🛵🤸🐈🌸👋
 - 🤔 I’m looking for help with advanced Full Stack projects  
 - 📫 You can contact me via GitHub issues, or through my email at klc.melimlissaa@gmail.com
 - 
-![Noon](cat-computer.gif)    ![Night](cat-annoyed.gif)
+![Noon](cat-computer.gif)    
 ![Night](cat-annoyed.gif)
