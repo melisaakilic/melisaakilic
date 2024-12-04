@@ -12,7 +12,7 @@ Hi there I'm Melisa 💁‍♀👩‍💻🛵🤸🐈🌸👋
   [![LinkedIn](icons8-linkedin-logo-48.png)]([https://linkedin.com](https://www.linkedin.com/in/melisa-k%C4%B1l%C4%B1%C3%A7-16a356228/))
   [![Gmail](icons8-gmail-48.png)](mailto:klc.melimlissaa@gmail.com)
   
-yep thats my all routine
+yep thats me
 ======
 ![Noon](cat-computer.gif)    ![Night](cat-annoyed.gif)  ![Night](crunchy-cat-monkeycatluna.gif)
 
