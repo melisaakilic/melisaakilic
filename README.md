@@ -1,4 +1,4 @@
-##Hi there I'm Melisa 💁‍♀👩‍💻🛵🤸🐈🌸👋##
+#Hi there I'm Melisa 💁‍♀👩‍💻🛵🤸🐈🌸👋
 
 - 🔭 I’m currently working on a meme coin development project and improving my Full Stack Development skills.                                                              
 - 🌱 I’m currently learning advanced web development techniques
