@@ -7,9 +7,9 @@ Hi there I'm Melisa 💁‍♀👩‍💻🛵🤸🐈🌸👋
 - 🤔 I’m looking for help with advanced Full Stack projects
 
 ### 🏆 GitHub Trophies
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melitata&label=Profile%20views&color=0e75b6&style=flat" alt="alp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melisaakilic&label=Profile%20views&color=0e75b6&style=flat" alt="alp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melitata" alt="alp" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=melisaakilic" alt="alp" /></a> </p>
 
 ----------
  📫 You can contact me with:
@@ -123,5 +123,5 @@ yep thats me
 </p>
 
 ### ⚡ GitHub Activity Graph
-![Alparslan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melitata)
+![Alparslan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=melisaakilic)
 
