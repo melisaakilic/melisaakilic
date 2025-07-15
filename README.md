@@ -5,7 +5,6 @@ I'm a Junior Full Stack Developer with a background in Statistics. I enjoy build
 
 - 🔧 Currently learning **React**, **JavaScript**, and **.NET 9**
 - 🧠 Exploring system design and cybersecurity concepts in my free time
-- 🎮 Working on a game backend and UI with a small team
 - 🤝 Looking to collaborate on beginner-friendly full stack projects
 
 ---
