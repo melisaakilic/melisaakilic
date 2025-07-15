@@ -9,6 +9,9 @@ I'm a Junior Full Stack Developer with a background in Statistics. I enjoy build
 - 🤝 Looking to collaborate on beginner-friendly full stack projects
 
 ---
+## 📝 Blog Posts
+- ✍️ [The Pressure to Pretend: Being a Junior Developer Today](https://medium.com/@mk_i3/the-pressure-to-pretend-being-a-junior-developer-today-52e95b288311)
+---
 
 ## 🛠️ Tech Stack
 - **Languages**: C#, JavaScript, HTML, CSS
