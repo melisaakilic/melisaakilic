@@ -1,29 +1,21 @@
 Hi there I'm Melisa 💁‍♀👩‍💻🛵🤸🐈🌸👋
 ======
 
-I'm a Junior Full Stack Developer with a background in Statistics. I enjoy building meaningful and functional software that solves real-world problems.
+Data analyst focused on fraud detection and financial crime, with a BSc in Statistics. I like the part of analytics where the data is messy, the signal is rare, and being wrong has a cost.
 
-- 🔧 Currently learning **React**, **JavaScript**, and **.NET 9**
-- 🧠 Exploring system design and cybersecurity concepts in my free time
-- 🤝 Looking to collaborate on beginner-friendly full stack projects
+🔎 Currently building: SQL, Python (pandas) and transaction-monitoring fundamentals
+🛡️ Interested in: fraud typologies, KYC/AML, anomaly detection, SIEM & log analysis
+📍 Based in the Netherlands · working in English
+🤝 Open to connecting with people working in fraud, financial crime or security analytics
 
----
-## 📝 Blog Posts
-- ✍️ [The Pressure to Pretend: Being a Junior Developer Today](https://medium.com/@mk_i3/the-pressure-to-pretend-being-a-junior-developer-today-52e95b288311)
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: C#, JavaScript, HTML, CSS
-- **Frameworks**: .NET, React (learning), Bootstrap
-- **Databases**: SQL Server
-- **Tools**: Git, GitHub, VS Code
----
-
-## 🎯 2025 Goals
-- ✅ Build and deploy at least 2 real-world full stack apps
-- 🛡️ Start learning Linux and cybersecurity basics for personal protection and awareness
-- 📘 Deepen my understanding of React and C# by creating portfolio-worthy projects
-
+- Data: SQL, Python (pandas, NumPy, Matplotlib)
+- Tools: Git, GitHub, Jupyter, VS Code
+- Learning next: Power BI, Splunk
+- Background: C#, .NET, JavaScript (full-stack bootcamp — Patika.Dev)
+  
 ---
  📫 You can contact me with:
 ----------
